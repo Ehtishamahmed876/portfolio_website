@@ -34,10 +34,10 @@ const Header = () =>  (
     </Div2>
     <Div3>
       <SocialIcons href='https://github.com/Ehtishamahmed876'>
-         <AiFillGithub/>
+         <AiFillGithub style={{fontSize:"3rem"}}/>
       </SocialIcons>
       <SocialIcons href='https://www.linkedin.com/in/ehtisham-ahmed-3b3517211/'>
-         <AiFillLinkedin/>
+         <AiFillLinkedin style={{fontSize:"3rem"}}/>
       </SocialIcons>
 
     </Div3>
